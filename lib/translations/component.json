@@ -1,0 +1,8 @@
+{
+  "name": "translations",
+  "description": "Translations dictionary for DemocracyOS",
+  "dependencies": {},
+  "scripts": [ "index.js" ],
+  "json": [ "lib/en.json" ],
+  "main": "index.js"
+}
