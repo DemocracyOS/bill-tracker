@@ -11,6 +11,7 @@ Please see [CONTRIBUTING.md](https://github.com/DemocracyOS/bill-tracker/blob/de
 
 ## Contributors
 
+See [CONTRIBUTORS.md](https://github.com/DemocracyOS/bill-tracker/blob/development/CONTRIBUTORS.md) to get to know the Bill Tracker team and contributors.
 
 ## Browser support
 
