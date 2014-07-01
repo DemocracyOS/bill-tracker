@@ -7,7 +7,6 @@
   },
   "local": [
     "homepage",
-    "restricted",
     "user",
     "translations",
     "config"
