@@ -4,18 +4,19 @@
  * Module dependencies.
  */
 
-var build = require('../lib/build');
 var fs = require('fs');
 var write = fs.writeFileSync;
 var path = require('path');
 var resolve = path.resolve;
 
 // Little hack to include `NODE_PATH=.`
-// require('node-path')(module, [resolve('.')]);
+require('node-path')(module, [resolve('.')]);
 
+// Compile client application `./public/app.js` and `./public/app.css`
+var build = require('lib/build');
 var builder = build.createBuilder();
 builder.build(function(err, res) {
-  if (err) return console.log(err);
+  if (err) return console.log(err), process.exit(1);
   write('public/app.js', res.require + res.js);
   write('public/app.css', res.css);
 });
