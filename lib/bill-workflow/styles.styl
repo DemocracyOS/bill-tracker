@@ -1,14 +1,39 @@
 .separator
-  height 10px
+  height 12px
   background #a9a9a9
   display inline-block
-  width 33% /*FIXME: this should be fixed with float instead of % width.*/
+  top 12px
+  position relative
+  width 38% /*FIXME: this should be fixed with float instead of % width.*/
 
 .hexagon
-  background darkgrey
-  width 50px
-  height 50px
+  background-color  #a9a9a9
+  margin-top: 30px;
+  height: 104px;
+  width: 60px;
+  position: relative
   display inline-block
+
+  &:before
+    content: " ";
+    border-right: 30px solid #a9a9a9;
+    border-top: 52px solid transparent;
+    border-bottom: 52px solid transparent;
+    position absolute
+    left -30px
+
+  &:after
+    content: " ";
+    border-left: 30px solid #a9a9a9;
+    border-top: 52px solid transparent;
+    border-bottom: 52px solid transparent;
+    position absolute
+    left 60px
 
   &.current
     border solid 3px greenyellow
+
+  i.glyphicon
+      top: 28px;
+      font-size: 48px;
+      left: 8px;
