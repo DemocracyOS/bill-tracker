@@ -30,10 +30,39 @@
     position absolute
     left 60px
 
-  &.current
-    border solid 3px greenyellow
+  i.glyphicon
+    top: 28px;
+    font-size: 48px;
+    left: 8px;
+    color #ffffff
+
+.small-hexagon
+  background-color  #ffffff
+  margin-top: 30px;
+  height: 90px;
+  width: 50px;
+  position: relative
+  display inline-block
+  right 60px
+  top 6px
+
+  &:before
+    content: " ";
+    border-right: 22px solid #ffffff;
+    border-top: 45px solid transparent;
+    border-bottom: 45px solid transparent;
+    position absolute
+    left -22px
+
+  &:after
+    content: " ";
+    border-left: 22px solid #ffffff;
+    border-top: 45px solid transparent;
+    border-bottom: 45px solid transparent;
+    position absolute
+    left 50px
 
   i.glyphicon
-      top: 28px;
+      top: 22px;
       font-size: 48px;
-      left: 8px;
+      left: 5px;
