@@ -36,30 +36,32 @@
 
  /*TODO: small hexagon is for highlight the current step */
 .small-hexagon
+  -webkit-transform: scale(.8, .8);
+  -moz-transform: scale(.8, .8);
+  transform: scale(.8, .8);
   background-color  #ffffff
   margin-top: 30px;
-  height: 90px;
-  width: 50px;
+  height: 104px;
+  width: 60px;
   position: relative
   display inline-block
   right 60px
-  top 6px
 
   &:before, &:after
     content: " ";
-    border-top: 45px solid transparent;
-    border-bottom: 45px solid transparent;
+    border-top: 52px solid transparent;
+    border-bottom: 52px solid transparent;
     position absolute
 
   &:before
-    border-right: 22px solid #ffffff;
-    left -22px
+    border-right: 30px solid #ffffff;
+    left -30px
 
   &:after
-    border-left: 22px solid #ffffff;
-    left 50px
+    border-left: 30px solid #ffffff;
+    left 60px
 
   i.glyphicon
-      top: 22px;
+      top: 28px;
       font-size: 48px;
-      left: 5px;
+      left: 8px;
