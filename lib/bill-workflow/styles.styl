@@ -14,20 +14,18 @@
   position: relative
   display inline-block
 
-  &:before
+  &:before, &:after
     content: " ";
-    border-right: 30px solid #a9a9a9;
     border-top: 52px solid transparent;
     border-bottom: 52px solid transparent;
     position absolute
+
+  &:before
+    border-right: 30px solid #a9a9a9;
     left -30px
 
   &:after
-    content: " ";
     border-left: 30px solid #a9a9a9;
-    border-top: 52px solid transparent;
-    border-bottom: 52px solid transparent;
-    position absolute
     left 60px
 
   i.glyphicon
@@ -47,20 +45,18 @@
   right 60px
   top 6px
 
-  &:before
+  &:before, &:after
     content: " ";
-    border-right: 22px solid #ffffff;
     border-top: 45px solid transparent;
     border-bottom: 45px solid transparent;
     position absolute
+
+  &:before
+    border-right: 22px solid #ffffff;
     left -22px
 
   &:after
-    content: " ";
     border-left: 22px solid #ffffff;
-    border-top: 45px solid transparent;
-    border-bottom: 45px solid transparent;
-    position absolute
     left 50px
 
   i.glyphicon
