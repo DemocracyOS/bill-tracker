@@ -1,8 +1,9 @@
 [
   {
       "name" : "Green Roofs"
-    , "description" : "This try to move the regular roof of the city buildings to roof gardens, improving energy and subflubial charge."
-    , "status" : "In progress"
+    , "description" : "Move from regular roof of the city buildings to roof gardens, improving energy and subflubial charge."
+    , "billId" : "1"
+    , "status" : "started"
     , "startedAt" : "2014-04-01T15:00:00.001Z"
     , "finishedAt" : "2014-05-01T15:00:00.001Z"
     , "steps" : [
@@ -23,11 +24,11 @@
         , "arriveAt" : "2014-04-28T15:00:00.001Z"
       }
     ]
-  }
-  , {
+  },{
       "name" : "Green Roofs"
-    , "description" : "This try to move the regular roof of the city buildings to roof gardens, improving energy and subflubial charge."
-    , "status" : "In progress"
+    , "description" : "Move from regular roof of the city buildings to roof gardens, improving energy and subflubial charge."
+    , "billId" : "2"
+    , "status" : "started"
     , "startedAt" : "2014-04-01T15:00:00.001Z"
     , "finishedAt" : "2014-05-01T15:00:00.001Z"
     , "steps" : [
@@ -48,11 +49,61 @@
         , "arriveAt" : "2014-04-28T15:00:00.001Z"
       }
     ]
-  }
-  , {
+  },{
+      "name" : "Remove abandoned cards"
+    , "description" : "Cars in street with more than 180 days, should be removed."
+    , "billId" : "3"
+    , "status" : "started"
+    , "startedAt" : "2014-04-01T15:00:00.001Z"
+    , "finishedAt" : "2014-05-01T15:00:00.001Z"
+    , "steps" : [
+      {
+          "number" : 1
+        , "arriveAt" : "2014-04-01T15:00:00.001Z"
+      }
+      , {
+          "number" : 2
+        , "arriveAt" : "2014-04-07T15:00:00.001Z"
+      }
+      , {
+          "number" : 3
+        , "arriveAt" : "2014-04-12T15:00:00.001Z"
+      }
+      , {
+          "number" : 4
+        , "arriveAt" : "2014-04-28T15:00:00.001Z"
+      }
+    ]
+  },{
       "name" : "Green Roofs"
-    , "description" : "This try to move the regular roof of the city buildings to roof gardens, improving energy and subflubial charge."
-    , "status" : "In progress"
+    , "description" : "Move from regular roof of the city buildings to roof gardens, improving energy and subflubial charge."
+    , "billId" : "4"
+    , "status" : "started"
+    , "startedAt" : "2014-04-01T15:00:00.001Z"
+    , "finishedAt" : "2014-05-01T15:00:00.001Z"
+    , "steps" : [
+      {
+          "number" : 1
+        , "arriveAt" : "2014-04-01T15:00:00.001Z"
+      }
+      , {
+          "number" : 2
+        , "arriveAt" : "2014-04-07T15:00:00.001Z"
+      }
+      , {
+          "number" : 3
+        , "arriveAt" : "2014-04-12T15:00:00.001Z"
+      }
+      , {
+          "number" : 4
+        , "arriveAt" : "2014-04-28T15:00:00.001Z"
+      }
+    ]
+  },{
+      "name" : "Green Roofs"
+    , "description" : "Move from regular roof of the city buildings to roof gardens, improving energy and subflubial charge."
+    , "billId" : "4"
+    , "status" : "started"
     , "startedAt" : "2014-04-01T15:00:00.001Z"
     , "finishedAt" : "2014-05-01T15:00:00.001Z"
     , "steps" : [
