@@ -1,13 +1,16 @@
+/*TODO: replace with https://github.com/rschmukler/component-stylus-plugin */
+@import "./lib/view/styles.styl"
+
 .separator
   height 12px
-  background #a9a9a9
+  background grey_background;
   display inline-block
   top 12px
   position relative
   width 38% /*FIXME: this should be fixed with float instead of % width.*/
 
 .hexagon
-  background-color  #a9a9a9
+  background-color  grey_background;
   margin-top: 30px;
   height: 104px;
   width: 60px;
@@ -21,11 +24,11 @@
     position absolute
 
   &:before
-    border-right: 30px solid #a9a9a9;
+    border-right: 30px solid grey_background;
     left -30px
 
   &:after
-    border-left: 30px solid #a9a9a9;
+    border-left: 30px solid grey_background;
     left 60px
 
   i.glyphicon
@@ -39,7 +42,7 @@
   -webkit-transform: scale(.8, .8);
   -moz-transform: scale(.8, .8);
   transform: scale(.8, .8);
-  background-color  #ffffff
+  background-color  main_blue;
   margin-top: 30px;
   height: 104px;
   width: 60px;
@@ -54,11 +57,11 @@
     position absolute
 
   &:before
-    border-right: 30px solid #ffffff;
+    border-right: 30px solid main_blue;
     left -30px
 
   &:after
-    border-left: 30px solid #ffffff;
+    border-left: 30px solid main_blue;
     left 60px
 
   i.glyphicon
