@@ -6,6 +6,8 @@
     "component/dom": "1.0.5",
     "component/closest": "0.1.3",
     "component/emitter": "1.1.1",
+    "components/font-awesome": "4.1.0",
+    "ripplejs/ripple": "0.5.3",
     "visionmedia/superagent" : "0.18.0"
   },
   "local": [

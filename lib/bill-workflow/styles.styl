@@ -31,40 +31,18 @@
     border-left: 30px solid grey_background;
     left 60px
 
-  i.glyphicon
+  i
     top: 28px;
     font-size: 48px;
     left: 8px;
     color #ffffff
+    position relative
 
- /*TODO: small hexagon is for highlight the current step */
-.small-hexagon
-  -webkit-transform: scale(.8, .8);
-  -moz-transform: scale(.8, .8);
-  transform: scale(.8, .8);
-  background-color  main_blue;
-  margin-top: 30px;
-  height: 104px;
-  width: 60px;
-  position: relative
-  display inline-block
-  right 60px
+  &.selected
+    background-color main_blue;
 
-  &:before, &:after
-    content: " ";
-    border-top: 52px solid transparent;
-    border-bottom: 52px solid transparent;
-    position absolute
+    &:before
+      border-right: 30px solid main_blue;
 
-  &:before
-    border-right: 30px solid main_blue;
-    left -30px
-
-  &:after
-    border-left: 30px solid main_blue;
-    left 60px
-
-  i.glyphicon
-      top: 28px;
-      font-size: 48px;
-      left: 8px;
+    &:after
+      border-left: 30px solid main_blue;
