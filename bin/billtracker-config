@@ -22,4 +22,4 @@ config.client.forEach(function(k) {
 });
 
 log(resolve('lib/config/client.js'));
-write(resolve('lib/config/client.js'), 'module.exports = ' + JSON.stringify(client));
+// write(resolve('lib/config/client.js'), 'module.exports = ' + JSON.stringify(client));
