@@ -8,7 +8,6 @@ var fs = require('fs');
 var write = fs.writeFileSync;
 var path = require('path');
 var resolve = path.resolve;
-var log = require('debug')('billtracker:config');
 
 // Little hack to include `NODE_PATH=.`
 require('node-path')(module, [resolve('.')]);
@@ -21,5 +20,4 @@ config.client.forEach(function(k) {
   client[k] = config[k];
 });
 
-log(resolve('lib/config/client.js'));
-// write(resolve('lib/config/client.js'), 'module.exports = ' + JSON.stringify(client));
+write(resolve('lib/config/client.js'), 'module.exports = ' + JSON.stringify(client));

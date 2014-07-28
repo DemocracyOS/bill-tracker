@@ -1,1 +1,1 @@
-web: node ./bin/billtracker-install && node ./bin/billtracker-build && node index.js
+web: node ./bin/billtracker-install && node ./bin/billtracker-config && node ./bin/billtracker-build && node index.js
