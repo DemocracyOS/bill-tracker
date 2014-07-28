@@ -8,6 +8,7 @@
   "local": [
     "view",
     "bill-workflow",
+    "bill-view",
     "bill-diff"
   ],
   "scripts": [
