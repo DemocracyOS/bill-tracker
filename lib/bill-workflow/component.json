@@ -18,6 +18,10 @@
     "view.js"
   ],
   "styles": ["styles.styl"],
+  "images": [
+    "images/hexagon.png",
+    "images/time_line.jpg"
+  ],
   "templates": [ "template.jade" ],
   "main": "view.js"
 }
