@@ -6,6 +6,16 @@
     , "status" : "started"
     , "startedAt" : "2014-04-01T15:00:00.001Z"
     , "finishedAt" : "2014-05-01T15:00:00.001Z"
+    , "authors" :  [
+      {
+        "name" : "john doe"
+        , "description" : "aditional information from the author / such as afiliations etc."
+      },
+      {
+        "name" : "john doe 2"
+        , "description" : "aditional information from the author / such as afiliations etc. 2"
+      }
+    ]
     , "steps" : [
       {
           "number" : 1
