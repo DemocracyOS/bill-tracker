@@ -14,7 +14,6 @@
   "scripts": [ "boot.js" ],
   "styles": ["index.styl"],
   "images": [
-    "images/bg.jpg",
     "images/favicon.ico"
   ],
   "main": "boot.js",
