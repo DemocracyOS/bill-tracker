@@ -17,83 +17,95 @@
   margin: 0 50px;
   height: 172px;
 
-  .btn
-    background: none repeat scroll 0 0 transparent;
-    border: medium none;
-    color: #d6d6d6;
-    font-size: 35px;
-    position: absolute;
-    top: 14px;
-    cursor: pointer;
+  .frame
+    line-height 0
+    height auto
+    overflow  hidden
 
-    &.btn-left
-      left: -43px;
+    .shadow
+      height 165px
+      position absolute
+      top -25px
+      width 64px
 
-    &.btn-right
-      right: -43px;
-
-  .history
-    position: relative;
-    padding: 0;
-    overflow: hidden;
-
-    ol
-      background: url("/bill-workflow/images/time_line.jpg") repeat-x scroll center center transparent;
-      list-style: none outside none;
-      margin: 0;
-      padding: 0;
-      position: relative;
-      width 1900px
+    ul
+      font-size 0
+      background url("/bill-workflow/images/time_line.png") repeat-x scroll center 68px transparent
+      list-style none outside none
+      margin 0
+      padding 0
+      position relative
+      width 1000px
 
       li
-        float: left;
-        margin: 0;
-        padding: 0;
+        text-align: center;
+        cursor: pointer;
 
-        &.selected > button
+        & > div
+          &.block
+            background-color #f8f8f8
+            height 149px
+            position absolute
+            top 0
+            width 50%
+            z-index 0
+
+        &.selected
+          margin 0
+          background url("/bill-workflow/images/time_line.png") repeat-x scroll center 68px #ffffff
+
+          div.block
+            background-color #ffffff
           i
             background-position center top
 
           p
-            color: #0099c7;
+            color #0099c7
 
-        & > button
-          background: none repeat scroll 0 0 transparent;
-          border: medium none;
-          cursor: pointer;
-          outline: none;
-          padding: 0 20px;
+        &.disabled
+          opacity .65
 
           i
-            background: url("/bill-workflow/images/hexagon.png") no-repeat scroll center bottom transparent;
-            //TODO: replace with .hexagon for have hexagon css class.
-            clear: both;
-            color: #ffffff;
-            display: block;
-            font-size: 20px;
-            height: 43px;
-            line-height: 41px;
-            margin: 0 auto;
-            text-align: center;
-            width: 37px;
+            color #ebebeb
 
-          p
-            font: 12px/16px 'Helvetica Neue', Arial, Sans-serif;
-            color: #bbbbbb;
-            margin: 0 0 3px;
+          .title
+            color #bbbbbb
 
-          &.title
-            font-weight: bold;
-            color: #555555;
-            margin: 3px 0 0;
-
-      &.disabled > button
-        cursor: not-allowed;
         i
-          color: #ebebeb;
+          background url("/bill-workflow/images/hexagon.png") no-repeat scroll center bottom transparent
+          clear both
+          color #ffffff
+          display block
+          font-size 20px
+          height 63px
+          line-height 41px
+          margin 0 auto
+          text-align center
+          width 37px
+          z-index 2
+          position relative
 
-        p.title
-          color: #bbbbbb;
+        p
+          color #a2a2a2
+          font 12px/16px 'Helvetica Neue',Arial,Sans-serif
+          margin 4px 0 2px
+          position relative
+
+          .title
+            color #636363
+            font-size 14px
+            font-weight bold
+            margin 0
+
+
+  .frame ul li,
+  .frame ul li.active
+    float left
+    width 250px
+    margin 0
+    padding 20px 0 19px
+    position relative
+    background none repeat scroll 0 0 transparent
 
 .hexagon
   background-color  grey_background;

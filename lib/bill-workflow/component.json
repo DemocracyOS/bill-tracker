@@ -20,7 +20,7 @@
   "styles": ["styles.styl"],
   "images": [
     "images/hexagon.png",
-    "images/time_line.jpg"
+    "images/time_line.png"
   ],
   "templates": [ "template.jade" ],
   "main": "view.js"
