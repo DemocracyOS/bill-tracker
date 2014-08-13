@@ -12,3 +12,18 @@
     .remove
       background #CD5C5C
       color #ffffff
+
+#references
+  margin-top 10px
+
+  .added,.removed
+    &:before
+      content:" "
+      display inline-block
+      margin-right: 8px;
+      background #adff2f
+      width 16px
+      height 16px
+
+  .removed:before
+      background #CD5C5C
