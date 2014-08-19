@@ -1,0 +1,11 @@
+{
+  "name": "bill-to-text",
+  "description": "Convert a rich format to plain text for comparators",
+  "local": [
+    "view"
+  ],
+  "scripts": [
+    "view.js"
+  ],
+  "main": "view.js"
+}
