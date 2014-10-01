@@ -9,6 +9,7 @@
     "view",
     "bill-workflow",
     "bill-view",
+    "sidebar",
     "bill-diff"
   ],
   "scripts": [
