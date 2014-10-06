@@ -9,7 +9,8 @@
     "visionmedia/jade": "1.1.5",
     "component/t": "1.0.0",
     "cristiandouce/query": "0.0.1",
-    "visionmedia/superagent" : "0.18.0"
+    "visionmedia/superagent" : "0.18.0",
+    "ripplejs/ripple": "0.5.3"
   },
   "local": [
     "view"
