@@ -550,5 +550,233 @@
       }
       }
     ]
+  },
+  {
+      "billId": "103-D-13"
+    , "status": "started"
+    , "name": "Sale Rauch entra Walsh"
+    , "startedAt": "2013-12-05T15:00:00.001Z"
+    , "finishedAt": "2014-01-05T15:00:00.001Z"
+    , "description": "Cambiar nombre del actual \"Pasaje Rauch\", en el barrio de Almagro, por \"Pasaje Rodolfo Walsh\". Quienes están a favor argumentan que Rauch era un mercenario austríaco contratado por Rivadavia para perseguir a los indios ranqueles y, así, poder desalojarlos de sus tierras. En contraste, destacan la figura de Rodolfo Walsh Rodolfo Walsh, intelectual, escritor y militante, como un ejemplo excluyente por su coherencia y su lucha implacable contra la dictadura instaurada en 1976."
+    , "authors" :  [
+    {
+      "name" : "john doe"
+      , "description" : "aditional information from the author / such as afiliations etc."
+    },
+    {
+      "name" : "john doe 2"
+      , "description" : "aditional information from the author / such as afiliations etc. 2"
+    }
+  ]
+    , "steps" : [
+      {
+          "number" : 1
+        , "arriveAt" : "2014-04-01T15:00:00.001Z"
+        , "name": "Planificacion"
+        , "billText": {
+              "officialTitle": ""
+            , "mediaTitle": "Internet civil framework"
+            , "source": "http://direitorio.fgv.br/sites/direitorio.fgv.br/files/Marco%20Civil%20-%20English%20Version%20sept2011.pdf"
+            , "summary": "Cambiar nombre del actual \"Pasaje Rauch\", en el barrio de Almagro, por \"Pasaje Rodolfo Walsh\". Quienes están a favor argumentan que Rauch era un mercenario austríaco contratado por Rivadavia para perseguir a los indios ranqueles y, así, poder desalojarlos de sus tierras. En contraste, destacan la figura de Rodolfo Walsh Rodolfo Walsh, intelectual, escritor y militante, como un ejemplo excluyente por su coherencia y su lucha implacable contra la dictadura instaurada en 1976."
+            , "clauses": [
+              {
+                "clauseName": "1"
+                , "order": 0
+                , "text": "Denomínese \"Pasaje Rodolfo Walsh\" al actual \"Pasaje Rauch\"."
+              },
+              {
+                "clauseName": "2"
+                , "order": 1
+                , "text": "Publíquese y cúmplase con lo dispuesto en los Art. 89º Inc. 3 y 90º de la Constitución de la Ciudad de Buenos Aires."
+              },
+              {
+                "clauseName": "3"
+                , "order": 2
+                , "text": "Comuníquese, etc."
+              }
+            ]
+        }
+      },
+      {
+          "number" : 1
+        , "arriveAt" : "2014-04-01T15:00:00.001Z"
+        , "name": "Planeamiento urbano"
+        , "billText": {
+              "officialTitle": ""
+            , "mediaTitle": "Internet civil framework"
+            , "source": "http://direitorio.fgv.br/sites/direitorio.fgv.br/files/Marco%20Civil%20-%20English%20Version%20sept2011.pdf"
+            , "summary": "Cambiar nombre del actual \"Pasaje Rauch\", en el barrio de Almagro, por \"Pasaje Rodolfo Walsh\". Quienes están a favor argumentan que Rauch era un mercenario austríaco contratado por Rivadavia para perseguir a los indios ranqueles y, así, poder desalojarlos de sus tierras. En contraste, destacan la figura de Rodolfo Walsh Rodolfo Walsh, intelectual, escritor y militante, como un ejemplo excluyente por su coherencia y su lucha implacable contra la dictadura instaurada en 1976."
+            , "clauses": [
+              {
+                "clauseName": "1"
+                , "order": 0
+                , "text": "Denomínese \"Pasaje Rodolfo Walsh\" al actual \"Pasaje Rauch\"."
+              },
+              {
+                "clauseName": "2"
+                , "order": 1
+                , "text": "Publíquese y cúmplase con lo dispuesto en los Art. 89º Inc. 3 y 90º de la Constitución de la Ciudad de Buenos Aires."
+              },
+              {
+                "clauseName": "3"
+                , "order": 2
+                , "text": "Comuníquese, etc."
+              }
+            ]
+        }
+      }
+    ]
+  },
+  {
+      "name": "Parque de Recreación nº1 y Planta de recuperación de residuos sólidos"
+    , "description" :  "Este proyecto habilita la construcción de una planta de tratamiento integral y de recuperación de residuos sólidos urbanos por el método de separación mecánico biológica, por un plazo de 10 (diez) años, prorrogable por 10 (diez) años más, a la Cooperativa de Vivienda, Crédito, Consumo, Recreación y Turismo, Reconstrucción Municipal Limitada (Matrícula 12214). La ubicación se planea en el predio de Av. 27 de Febrero y Av. General Paz, barrio de Villa Riachuelo. Quienes están a favor de este proyecto argumentan que es un emprendimiento estratégico para disminuir la cantidad de residuos que la Ciudad envía al Ceamse de Provincia de Buenos Aires. La Legislatura ya aprobó el endeudamiento de la Ciudad en 270 millones de dólares para la realización de una planta de estas características."
+    , "billId": "2813-D-13"
+    , "status" : "started"
+    , "startedAt": "2013-12-05T15:00:00.001Z"
+    , "finishedAt": "2014-01-05T15:00:00.001Z"
+    , "authors" :  [
+        {
+            "name" : "john doe"
+          , "description" : "aditional information from the author / such as afiliations etc."
+        }
+      ]
+    , "steps": [
+      {
+        "number": 1,
+        "arriveAt": "2014-04-01T15:00:00.001Z",
+        "name": "Planeamiento urbano",
+        "billText": {
+            "officialTitle": ""
+          , "mediaTitle": "Parque de Recreación nº1 y Planta de recuperación de residuos sólidos"
+          , "source": "http://direitorio.fgv.br/sites/direitorio.fgv.br/files/Marco%20Civil%20-%20English%20Version%20sept2011.pdf"
+          , "summary": "Este proyecto habilita la construcción de una planta de tratamiento integral y de recuperación de residuos sólidos urbanos por el método de separación mecánico biológica, por un plazo de 10 (diez) años, prorrogable por 10 (diez) años más, a la Cooperativa de Vivienda, Crédito, Consumo, Recreación y Turismo, Reconstrucción Municipal Limitada (Matrícula 12214). La ubicación se planea en el predio de Av. 27 de Febrero y Av. General Paz, barrio de Villa Riachuelo. Quienes están a favor de este proyecto argumentan que es un emprendimiento estratégico para disminuir la cantidad de residuos que la Ciudad envía al Ceamse de Provincia de Buenos Aires. La Legislatura ya aprobó el endeudamiento de la Ciudad en 270 millones de dólares para la realización de una planta de estas características."
+          , "clauses": [
+              {
+                "clauseName": "1"
+                , "order": 0
+                , "text": "Autorízase al Poder Ejecutivo a celebrar contratos e instrumentar las obras necesarias para la construcción, instalación, puesta en funcionamiento, operación y mantenimiento de una planta de tratamiento integral y de recuperación de residuos sólidos urbanos por el método de separación mecánico biológica, por un plazo de 10 (diez) años, prorrogable por 10 (diez) años más, en forma automática a su vencimiento, sin necesidad de ratificación por las partes."
+              },
+              {
+                "clauseName": "2"
+                , "order": 1
+                , "text": "Desaféctese del distrito de zonificación Urbanización Parque-UP del Código de Planeamiento Urbano, al polígono  A, B, C y D delimitado en  el Plano que como Anexo I forma parte integrante de la presente Ley, correspondiente a la Parcela 2, Manzana 1B, Sección 84, Circunscripción. 1 de Av. General Paz Nº 17.122 y Av. 27 de Febrero s/Nº."
+              },
+              {
+                "clauseName": "3"
+                , "order": 2
+                , "text": "Desaféctese del distrito de zonificación Equipamiento Especial -E4 52 del Código de Planeamiento Urbano, al polígono C, E, F, G, H, I y J delimitado en el Plano que como Anexo 1 forma parte integrante de la presente Ley, correspondiente a la Parcela 1, Manzana 1B, Sección 84, Circunscripción 1 de Av. General Paz Nº 17.122 y Av. 27 de Febrero s/Nº."
+              },
+              {
+                "clauseName": "4"
+                , "order": 3
+                , "text": "Aféctense los predios descriptos en los artículos 2° y 3º al distrito de zonificación Equipamiento Especial E4 –(N° a designar) Higiene Urbana del Código de Planeamiento Urbano."
+              },
+              {
+                "clauseName": "5"
+                , "order": 4
+                , "text": "Sin perjuicio de lo establecido en el artículo 4º, otórgase a la Cooperativa de Vivienda, Crédito, Consumo, Recreación y Turismo, Reconstrucción Municipal Limitada (Matrícula 12214), la concesión para uso gratuito y recreativo del predio denominado Parque de Recreación Nº 1 (Alte. Brown y/o Parque Ribera Sur), sito en Av. General Paz y Av. 27 de Febrero de esta Capital."
+              },
+              {
+                "clauseName": "6"
+                , "order": 5
+                , "text": "El plazo de la concesión se fija por el término de 10 (diez) años, prorrogable por 10 (diez) años más, en forma automática a su vencimiento, sin necesidad de ratificación por las partes."
+              },
+              {
+                "clauseName": "7"
+                , "order": 6
+                , "text": "El Poder Ejecutivo suscribirá  los contratos de concesión pertinentes, conforme lo establecido en la presente ley."
+              },
+              {
+                "clauseName": "8"
+                , "order": 7
+                , "text": "Toda mejora o construcción que realicen las entidades beneficiarias en el predio, quedará incorporada al dominio de la Ciudad a  la extinción de la concesión. Establécese que el concesionario de la planta de Higiene Urbana deberá construir a su exclusivo costo y cargo dos (2) viviendas de 60 (sesenta) m2 cada una para ser destinada a los caseros y un obrador de 500 (quinientos) m2 para la guarda de maquinaria e implementos de trabajo en el Parque de Recreación N° 1. "
+              },
+              {
+                "clauseName": "9"
+                , "order": 8
+                , "text": "Queda a cargo de las entidades beneficiarias el pago de impuestos y las tarifas de los servicios públicos que correspondan al usufructo de los inmuebles."
+              },
+              {
+                "clauseName": "10"
+                , "order": 9
+                , "text": "Encomiéndese al Poder Ejecutivo la incorporación en el Código de Planeamiento Urbano lo establecido en los Artículos 2º y 3º y la modificación de la Plancheta de zonificación N°  32."
+              },
+              {
+                "clauseName": "11"
+                , "order": 10
+                , "text": "Publíquese y cúmplase con lo establecido en los artículos 89 y 90 de la Constitución de la Ciudad Autónoma de Buenos Aires."
+              }
+          ]
+        }
+      },
+      {
+        "number": 1,
+        "arriveAt": "2014-04-01T15:00:00.001Z",
+        "name": "Presupuesto",
+        "billText": {
+        "officialTitle": ""
+        , "mediaTitle": "Parque de Recreación nº1 y Planta de recuperación de residuos sólidos"
+        , "source": "http://direitorio.fgv.br/sites/direitorio.fgv.br/files/Marco%20Civil%20-%20English%20Version%20sept2011.pdf"
+        , "summary": "Este proyecto habilita la construcción de una planta de tratamiento integral y de recuperación de residuos sólidos urbanos por el método de separación mecánico biológica, por un plazo de 10 (diez) años, prorrogable por 10 (diez) años más, a la Cooperativa de Vivienda, Crédito, Consumo, Recreación y Turismo, Reconstrucción Municipal Limitada (Matrícula 12214). La ubicación se planea en el predio de Av. 27 de Febrero y Av. General Paz, barrio de Villa Riachuelo. Quienes están a favor de este proyecto argumentan que es un emprendimiento estratégico para disminuir la cantidad de residuos que la Ciudad envía al Ceamse de Provincia de Buenos Aires. La Legislatura ya aprobó el endeudamiento de la Ciudad en 270 millones de dólares para la realización de una planta de estas características."
+        , "clauses": [
+          {
+            "clauseName": "1"
+            , "order": 0
+            , "text": "Autorízase al Poder Ejecutivo a celebrar contratos e instrumentar las obras necesarias para la construcción, instalación, puesta en funcionamiento, operación y mantenimiento de una planta de tratamiento integral y de recuperación de residuos sólidos urbanos por el método de separación mecánico biológica, por un plazo de 10 (diez) años, prorrogable por 10 (diez) años más, en forma automática a su vencimiento, sin necesidad de ratificación por las partes."
+          },
+          {
+            "clauseName": "2"
+            , "order": 1
+            , "text": "Desaféctese del distrito de zonificación Urbanización Parque-UP del Código de Planeamiento Urbano, al polígono  A, B, C y D delimitado en  el Plano que como Anexo I forma parte integrante de la presente Ley, correspondiente a la Parcela 2, Manzana 1B, Sección 84, Circunscripción. 1 de Av. General Paz Nº 17.122 y Av. 27 de Febrero s/Nº."
+          },
+          {
+            "clauseName": "3"
+            , "order": 2
+            , "text": "Desaféctese del distrito de zonificación Equipamiento Especial -E4 52 del Código de Planeamiento Urbano, al polígono C, E, F, G, H, I y J delimitado en el Plano que como Anexo 1 forma parte integrante de la presente Ley, correspondiente a la Parcela 1, Manzana 1B, Sección 84, Circunscripción 1 de Av. General Paz Nº 17.122 y Av. 27 de Febrero s/Nº."
+          },
+          {
+            "clauseName": "4"
+            , "order": 3
+            , "text": "Aféctense los predios descriptos en los artículos 2° y 3º al distrito de zonificación Equipamiento Especial E4 –(N° a designar) Higiene Urbana del Código de Planeamiento Urbano."
+          },
+          {
+            "clauseName": "5"
+            , "order": 4
+            , "text": "Sin perjuicio de lo establecido en el artículo 4º, otórgase a la Cooperativa de Vivienda, Crédito, Consumo, Recreación y Turismo, Reconstrucción Municipal Limitada (Matrícula 12214), la concesión para uso gratuito y recreativo del predio denominado Parque de Recreación Nº 1 (Alte. Brown y/o Parque Ribera Sur), sito en Av. General Paz y Av. 27 de Febrero de esta Capital."
+          },
+          {
+            "clauseName": "6"
+            , "order": 5
+            , "text": "El plazo de la concesión se fija por el término de 10 (diez) años, prorrogable por 10 (diez) años más, en forma automática a su vencimiento, sin necesidad de ratificación por las partes."
+          },
+          {
+            "clauseName": "7"
+            , "order": 6
+            , "text": "El Poder Ejecutivo suscribirá  los contratos de concesión pertinentes, conforme lo establecido en la presente ley."
+          },
+          {
+            "clauseName": "8"
+            , "order": 7
+            , "text": "Toda mejora o construcción que realicen las entidades beneficiarias en el predio, quedará incorporada al dominio de la Ciudad a  la extinción de la concesión. Establécese que el concesionario de la planta de Higiene Urbana deberá construir a su exclusivo costo y cargo dos (2) viviendas de 60 (sesenta) m2 cada una para ser destinada a los caseros y un obrador de 500 (quinientos) m2 para la guarda de maquinaria e implementos de trabajo en el Parque de Recreación N° 1. "
+          },
+          {
+            "clauseName": "9"
+            , "order": 8
+            , "text": "Queda a cargo de las entidades beneficiarias el pago de impuestos y las tarifas de los servicios públicos que correspondan al usufructo de los inmuebles."
+          },
+          {
+            "clauseName": "10"
+            , "order": 9
+            , "text": "Encomiéndese al Poder Ejecutivo la incorporación en el Código de Planeamiento Urbano lo establecido en los Artículos 2º y 3º y la modificación de la Plancheta de zonificación N°  32."
+          },
+          {
+            "clauseName": "11"
+            , "order": 10
+            , "text": "Publíquese y cúmplase con lo establecido en los artículos 89 y 90 de la Constitución de la Ciudad Autónoma de Buenos Aires."
+          }
+        ]
+      }
+      }
+    ]
   }
 ]
