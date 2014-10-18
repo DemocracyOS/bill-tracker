@@ -1,0 +1,25 @@
+{
+  "name": "sidebar",
+  "description": "Sidebar list of items",
+  "dependencies": {
+    "component/domify": "1.2.0",
+    "component/events": "1.0.5",
+    "component/emitter": "1.1.1",
+    "visionmedia/debug": "0.7.4",
+    "visionmedia/jade": "1.1.5",
+    "component/t": "1.0.0",
+    "cristiandouce/query": "0.0.1",
+    "visionmedia/superagent" : "0.18.0",
+    "ripplejs/ripple": "0.5.3"
+  },
+  "local": [
+    "view"
+  ],
+  "scripts": ["view.js" ],
+  "templates": [
+    "list-item.jade",
+    "template.jade"
+  ],
+  "styles": [ "style.styl" ],
+  "main": "view.js"
+}
