@@ -1,29 +1,57 @@
 #bill-diff
-  margin-top 10px
+  margin: 0 auto;
+  max-width: 1100px;
+  padding: 0 30px;
 
   .text
-    border solid 1px
-    padding  8px
-    display inline-block
-    background #ffffff
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    padding: 52px 8%;
+    width: 100%;
+    display: block;
+    background: #fff;
+    font-size: 16px;
+    line-height: 28px;
+    -webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
 
     .add
-      background #adff2f
+      background: none repeat scroll 0 0 #5cb85c;
+      border-radius: 4px;
+      color: #fff;
+      padding: 2px 6px;
+
     .remove
-      background #CD5C5C
-      color #ffffff
+      background: none repeat scroll 0 0 #d9534f;
+      border-radius: 4px;
+      color: #fff;
+      padding: 2px 6px;
+
+#references:after, #references:before
+    content: ' ';
+    display: table;
+
+#references:after
+    clear: both;
 
 #references
-  margin-top 10px
+  margin: 10px auto 0;
+  max-width: 1100px;
+  padding: 0 30px;
 
   .added,.removed
-    &:before
-      content:" "
-      display inline-block
-      margin-right: 8px;
-      background #adff2f
-      width 16px
-      height 16px
+    float: right;
+    padding: 5px 10px;
+    margin: 15px 0 0;
+    color: #fff;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
 
-  .removed:before
-      background #CD5C5C
+  .added
+    background-color: #5cb85c;
+
+  .removed
+    background-color: #d9534f;
