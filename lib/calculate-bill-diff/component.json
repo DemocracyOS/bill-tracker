@@ -1,0 +1,15 @@
+{
+  "name": "calculate-bill-diff",
+  "description": "Calculate difference between 2 bills",
+  "dependencies": {
+    "vmariano/jsdiff": "*"
+  },
+  "local": [
+      "view"
+    , "bill-to-text"
+  ],
+  "scripts": [
+    "view.js"
+  ],
+  "main": "view.js"
+}

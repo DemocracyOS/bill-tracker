@@ -9,6 +9,7 @@
     "ripplejs/each":  "0.3.0",
     "moment/moment": "2.7.0",
     "visionmedia/superagent" : "0.18.0"
+  , "component/dom": "1.0.5"
   },
   "local": [
     "view"
