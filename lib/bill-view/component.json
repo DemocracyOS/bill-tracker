@@ -18,6 +18,9 @@
     "view.js"
   ],
   "styles": ["styles.styl"],
-  "templates": [ "template.jade" ],
+  "templates": [
+      "template.jade"
+    , "header.jade"
+  ],
   "main": "view.js"
 }
