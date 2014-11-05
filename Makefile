@@ -30,5 +30,9 @@ clean:
 	@echo "Removing dependencies, components and built assets."
 	@rm -rf components node_modules public
 	@echo "Done.\n"
+initdb:
+	@echo "Bootstrapping db"
+	@node ./bin/billtracker-db load bill ./lib/fixtures/bills.json
 
 .PHONY: run build clean
+
