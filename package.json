@@ -1,6 +1,6 @@
 {
   "name": "bill-tracker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Bill Tracker is an online tool for tracking bills in their lifespan.",
   "main": "index.js",
   "repository": {
