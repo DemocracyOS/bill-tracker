@@ -1,14 +1,11 @@
 {
-  "name": "nodejs-starter",
-  "version": "0.0.1",
-  "description": "Simple demo app for beginners. Node.js, express, mongoose, passport.js, component.io and jade.",
+  "name": "bill-tracker",
+  "version": "0.0.2",
+  "description": "Bill Tracker is an online tool for tracking bills in their lifespan.",
   "main": "index.js",
-  "scripts": {
-    "test": "make test"
-  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/gravityonmars/nodejs-starter.git"
+    "url": "git://github.com/DemocracyOS/bill-tracker.git"
   },
   "keywords": [
     "nodejs",
@@ -18,10 +15,24 @@
     "component",
     "jade"
   ],
-  "author": "",
+  "author": "Democracia en Red <speak@democracyos.org>",
+  "contributors": [
+    {
+      "name": "Mariano Vicente",
+      "email": "m.vicent@gmail.com"
+    },
+    {
+      "name": "Guido Vilariño",
+      "email": "gvilarino@gmail.com"
+    },
+    {
+      "name": "Sacha Lifszyc",
+      "email": "sacha.lifszyc@gmail.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gravityonmars/nodejs-starter/issues"
+    "url": "https://github.com/DemocracyOs/bill-tracker/issues"
   },
   "engines": {
     "node": "0.10.15",
@@ -50,6 +61,9 @@
     "merge-util": "0.1.0",
     "node-path": "0.0.3",
     "crypto": "0.0.3",
-    "debug": "~0.7.4"
+    "debug": "~0.7.4",
+    "t-component": "1.0.0",
+    "lorem-ipsum": "1.0.1",
+    "co-prompt": "~1.0.0"
   }
 }

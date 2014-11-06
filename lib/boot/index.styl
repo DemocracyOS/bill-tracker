@@ -1,64 +1,84 @@
 body
-	background: url('/boot/images/bg.jpg') top center fixed;
-	background-size: cover;
-	-webkit-font-smoothing: antialiased; 
-	font-family: "Lucida Grande";
+  background-size: cover;
+  -webkit-font-smoothing: antialiased;
+  padding: 35px 0;
+  background-color: #f5f5f5
 
-h1,h2,h3
-	font-weight: 100;
+h1, h2, h3
+  font-weight: bold;
 
-a 
-	font-weight: bold
+
+a
+  font-weight: bold
 
 .btn 
-	letter-spacing: 2px;
-	text-transform: uppercase
+  letter-spacing: 2px;
+  text-transform: uppercase
 
-header 
-	h1 
-		font-size: 60px;
-		margin: 50px 0 30px 0;
-	h5 
-		font-size: 11px;
-		font-style: italic
-		opacity: .6
-		a 
-			font-weight: normal
+header
+  h1
+    font-size: 60px;
+    margin: 50px 0 30px 0;
+  h5
+    font-size: 11px;
+    font-style: italic
+    opacity: .6
+    a
+      font-weight: normal
 
 .site-content
-	max-width: 650px;
-	padding: 30px 50px;
-	margin: 30px auto;
-	background: white;
-	.description
-		font-size: 18px;
-		line-height: 26px;
-		margin-bottom: 30px;
-	h4 
-		margin-top: 30px;
-	.social-login 
-		.btn 
-			margin-right: 20px;
-			font-size: 11px;
+  background: #f8f8f8
+  position: fixed
+  overflow-y: scroll;
+  overflow-x: hidden;
+  left: 266px
+  top: 0px
+  right: 0
+  bottom: 0
+  margin: 0
+  padding: 0
 
-	a.btn.btn-get-started
-		border: 0;
-		background: white;
-		color: black;
-		font-size: 12px;
-		padding: 20px 30px;
-	
-	pre.code-box
-		text-align: left;
-		border: 0;
-		padding: 20px;
-		border-radius: 0;
-		margin-top: 20px;
-		h5 
-			margin-top: 0;
-		p 
-			padding-left: 0;
-	
-	.share-links 
-		iframe 
-			margin-right: 20px;
+  .description
+    font-size: 18px;
+    line-height: 26px;
+    margin-bottom: 30px;
+  h4
+    margin-top: 30px;
+  .social-login 
+    .btn
+      margin-right: 20px;
+      font-size: 11px;
+
+  a.btn.btn-get-started
+    border: 0;
+    background: white;
+    color: black;
+    font-size: 12px;
+    padding: 20px 30px;
+
+  pre.code-box
+    text-align: left;
+    border: 0;
+    padding: 20px;
+    border-radius: 0;
+    margin-top: 20px;
+    h5 
+      margin-top: 0;
+    p 
+      padding-left: 0;
+
+  .share-links 
+    iframe 
+      margin-right: 20px;
+
+	#homepage
+		margin: 0 20px;
+
+aside.nav
+	top: 0
+	bottom: 0
+	width: 266px
+	border-right: 1px #BDC3C7
+	overflow-y: scroll
+	background: #ECF0F1
+	position: fixed

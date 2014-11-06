@@ -1,0 +1,12 @@
+{
+  "name": "render",
+  "description": "Component render utility for Bill Tracker",
+  "dependencies": {
+    "component/domify": "1.2.2",
+    "cristiandouce/merge-util": "0.1.0",
+    "component/t": "1.0.0"
+  },
+  "local": [ "config" ],
+  "scripts": [ "render.js" ],
+  "main": "render.js"
+}

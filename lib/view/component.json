@@ -1,0 +1,14 @@
+{
+  "name": "view",
+  "description": "Base view component",
+  "dependencies": {
+    "component/dom": "1.0.5",
+    "component/emitter": "1.1.1",
+    "component/inherit": "0.0.3",
+    "cristiandouce/query": "0.0.1",
+    "yields/empty": "0.0.1"
+  },
+  "local": [ "render" ],
+  "scripts": [ "view.js" ],
+  "main": "view.js"
+}

@@ -1,5 +1,5 @@
 ifndef DEBUG
-  DEBUG="njs*"
+  DEBUG="billtracker*"
 endif
 
 ifndef NODE_ENV
@@ -16,19 +16,23 @@ node_modules:
 
 components:
 	@echo "Installing components..."
-	@node ./bin/njs-install --config
+	@node ./bin/billtracker-install --config
 
 config:
 	@echo "Updating config settings..."
-	@node ./bin/njs-config
+	@node ./bin/billtracker-config
 
 build:
 	@echo "Compiling components to ./public..."
-	@node ./bin/njs-build
+	@node ./bin/billtracker-build
 
 clean:
 	@echo "Removing dependencies, components and built assets."
 	@rm -rf components node_modules public
 	@echo "Done.\n"
+initdb:
+	@echo "Bootstrapping db"
+	@node ./bin/billtracker-db load bill ./lib/fixtures/bills.json
 
 .PHONY: run build clean
+

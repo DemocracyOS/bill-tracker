@@ -1,0 +1,145 @@
+/*TODO: replace with https://github.com/rschmukler/component-stylus-plugin */
+@import "./lib/view/styles.styl"
+
+.history
+  ol
+    display inline-block
+
+    li
+      display inline-block
+      text-align center
+
+.hide
+  display: none;
+
+.historyWrapper
+  height: 172px;
+  margin: 0 50px;
+  position: relative;
+
+  .frame
+    line-height 0
+    height auto
+    overflow  hidden
+    overflow-x scroll
+
+    .shadow
+      height 165px
+      position absolute
+      top -25px
+      width 64px
+
+    ul
+      font-size 0
+      background url("/bill-workflow/images/time_line.png") repeat-x scroll center 68px transparent
+      list-style none outside none
+      margin 0
+      padding 0
+      position relative
+      width 1000px
+
+      li
+        text-align: center;
+        cursor: pointer;
+
+        & > div
+          &.block
+            background-color #f8f8f8
+            height 149px
+            position absolute
+            top 0
+            width 50%
+            z-index 0
+
+        &.selected
+          margin 0
+          background url("/bill-workflow/images/time_line.png") repeat-x scroll center 68px #ffffff
+
+          div.block
+            background-color #ffffff
+          i
+            background-position center top
+
+          p
+            color #0099c7
+
+        &.disabled
+          opacity .65
+
+          i
+            color #ebebeb
+
+          .title
+            color #bbbbbb
+
+        i
+          background url("/bill-workflow/images/hexagon.png") no-repeat scroll center bottom transparent
+          clear both
+          color #ffffff
+          display block
+          font-size 20px
+          height 63px
+          line-height 41px
+          margin 0 auto
+          text-align center
+          width 37px
+          z-index 2
+          position relative
+
+        p
+          color #a2a2a2
+          font 12px/16px 'Helvetica Neue',Arial,Sans-serif
+          margin 4px 0 2px
+          position relative
+
+          .title
+            color #636363
+            font-size 14px
+            font-weight bold
+            margin 0
+
+
+  .frame ul li,
+  .frame ul li.active
+    float left;
+    width 25%;
+    margin 0;
+    padding 20px 0 19px;
+    position relative;
+    background none repeat scroll 0 0 transparent;
+
+.hexagon
+  background-color  grey_background;
+  margin-top: 30px;
+  height: 104px;
+  width: 60px;
+  position: relative
+  display inline-block
+
+  &:before, &:after
+    content: " ";
+    border-top: 52px solid transparent;
+    border-bottom: 52px solid transparent;
+    position absolute
+
+  &:before
+    border-right: 30px solid grey_background;
+    left -30px
+
+  &:after
+    border-left: 30px solid grey_background;
+    left 60px
+
+  i
+    font-size: 16px;
+    color #ffffff
+    position relative
+
+  &.selected
+    background-color main_blue;
+
+    &:before
+      border-right: 30px solid main_blue;
+
+    &:after
+      border-left: 30px solid main_blue;
