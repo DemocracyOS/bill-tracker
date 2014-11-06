@@ -1,0 +1,24 @@
+
+0.0.2 / 2014-11-06
+==================
+  * #26 Remove dates bill's header.
+  * #19 Add fancy diff for bill's text
+  * #22 Update calls to load sidebar elements in the main view.
+  * #20 Add DOS favicon 
+  * #15 Add sidebar to the main view. 
+  * #12 Fix reverse text comparation on bills text.
+  * #10 Save/show structure bill's text 
+  * #5 Add new bill data. for text diference
+  * #7 Add diff view for bill's text.
+  * Fix MONGOHQ_URL env variable
+  * Add missing log package
+  * Fix billtracker-config
+  * Log resolve path
+  * Create/update inital styles.
+  * #3 Initial data set
+  * #2 Basic schema and crud data 
+  * #1 Add initial api endpoints related to 
+  * Add basic prototype view for bill workflow.
+  * Fix load langs in client side.
+  * Update node js startar old files and add new one
+  * Initial commit based on NodeJS Starter
