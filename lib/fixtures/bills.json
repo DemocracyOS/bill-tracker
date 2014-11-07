@@ -20,6 +20,14 @@
     {
       "number" : 1
     , "arriveAt" : "2014-04-01T15:00:00.001Z"
+    , "metadata": {
+      "members": [
+        {
+          "name" : "Bill Snake Charmer"
+        , "description" : "aditional information from the author / such as afiliations etc."
+        }
+      ]
+    }
     , "name": "Budget"
     , "billText": {
       "officialTitle": ""
@@ -159,6 +167,14 @@
       "number" : 2
     , "arriveAt" : "2014-04-07T15:00:00.001Z"
     , "name" : "Urban planing"
+    , "metadata": {
+        "members": [
+          {
+            "name" : "Bill Snake Charmer"
+          , "description" : "aditional information from the author / such as afiliations etc."
+          }
+        ]
+      }
     , "billText": {
         "officialTitle": ""
       , "mediaTitle": "Internet civil framework"
@@ -292,6 +308,14 @@
       "number" : 3
     , "arriveAt" : "2014-04-12T15:00:00.001Z"
     , "name" : "Building Specialist"
+    , "metadata": {
+        "members": [
+          {
+            "name" : "Bill Snake Charmer"
+          , "description" : "aditional information from the author / such as afiliations etc."
+          }
+        ]
+      }
     , "billText": {
         "officialTitle": ""
       , "mediaTitle": "Internet civil framework"
@@ -430,6 +454,14 @@
       "number" : 4
     , "arriveAt" : "2014-04-28T15:00:00.001Z"
     , "name" : "Planification"
+    , "metadata": {
+        "members": [
+          {
+            "name" : "Bill Snake Charmer"
+          , "description" : "aditional information from the author / such as afiliations etc."
+          }
+        ]
+      }
     , "billText": {
         "officialTitle": ""
       , "mediaTitle": "Internet civil framework"
@@ -573,6 +605,14 @@
           "number" : 1
         , "arriveAt" : "2014-04-01T15:00:00.001Z"
         , "name": "Planificacion"
+        , "metadata": {
+          "members": [
+            {
+              "name" : "Bill Snake Charmer"
+            , "description" : "aditional information from the author / such as afiliations etc."
+            }
+          ]
+      }
         , "billText": {
               "officialTitle": ""
             , "mediaTitle": "Internet civil framework"
@@ -601,6 +641,14 @@
           "number" : 1
         , "arriveAt" : "2014-04-01T15:00:00.001Z"
         , "name": "Planeamiento urbano"
+        , "metadata": {
+          "members": [
+            {
+              "name" : "Bill Snake Charmer"
+            , "description" : "aditional information from the author / such as afiliations etc."
+            }
+          ]
+        }
         , "billText": {
               "officialTitle": ""
             , "mediaTitle": "Internet civil framework"
@@ -642,10 +690,18 @@
       ]
     , "steps": [
       {
-        "number": 1,
-        "arriveAt": "2014-04-01T15:00:00.001Z",
-        "name": "Planeamiento urbano",
-        "billText": {
+          "number": 1
+        , "arriveAt": "2014-04-01T15:00:00.001Z"
+        , "name": "Planeamiento urbano"
+        , "metadata": {
+          "members": [
+            {
+              "name" : "Bill Snake Charmer"
+            , "description" : "aditional information from the author / such as afiliations etc."
+            }
+          ]
+        }
+        , "billText": {
             "officialTitle": ""
           , "mediaTitle": "Parque de Recreación nº1 y Planta de recuperación de residuos sólidos"
           , "source": "http://direitorio.fgv.br/sites/direitorio.fgv.br/files/Marco%20Civil%20-%20English%20Version%20sept2011.pdf"
@@ -713,6 +769,14 @@
         "number": 1,
         "arriveAt": "2014-04-01T15:00:00.001Z",
         "name": "Presupuesto",
+        "metadata": {
+          "members": [
+            {
+              "name" : "Bill Snake Charmer"
+            , "description" : "aditional information from the author / such as afiliations etc."
+            }
+          ]
+        },
         "billText": {
         "officialTitle": ""
         , "mediaTitle": "Parque de Recreación nº1 y Planta de recuperación de residuos sólidos"

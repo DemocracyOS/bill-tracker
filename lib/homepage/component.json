@@ -8,10 +8,11 @@
   },
   "local": [
     "view",
-    "bill-workflow",
+    "flow",
     "bill-view",
     "sidebar",
-    "bill-diff"
+    "bill-diff",
+    "step-info"
   ],
   "scripts": [
     "homepage.js",

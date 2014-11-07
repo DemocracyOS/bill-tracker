@@ -1,0 +1,40 @@
+background_color = #ffffff
+border_color = #878787
+
+#step-info-container
+    position: relative
+    background: background_color
+    border: 1px solid border_color
+
+    border-radius: 6px
+    padding: 52px 20px
+    display: block
+    background: background_color
+    font-size: 16px
+    line-height: 28px
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.1)
+    width: 945px
+    margin:  0 auto 20px
+
+    //TODO: the arrow should be put over each section more or less.
+    div:after, div:before
+        bottom: 100%
+        left: 50%
+        border: solid transparent
+        content: " "
+        height: 0
+        width: 0
+        position: absolute
+        pointer-events: none
+
+      div:after
+        border-color: rgba(136, 183, 213, 0)
+        border-bottom-color: background_color
+        border-width: 30px
+        margin-left: -30px
+
+      div:before
+        border-color: rgba(194, 225, 245, 0)
+        border-bottom-color: border_color
+        border-width: 31px
+        margin-left: -31px

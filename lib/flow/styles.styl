@@ -1,5 +1,6 @@
 /*TODO: replace with https://github.com/rschmukler/component-stylus-plugin */
 @import "./lib/view/styles.styl"
+image_path = "/flow/images/"
 
 .history
   ol
@@ -31,7 +32,7 @@
 
     ul
       font-size 0
-      background url("/bill-workflow/images/time_line.png") repeat-x scroll center 68px transparent
+      background url(image_path + "time_line.png") repeat-x scroll center 68px transparent
       list-style none outside none
       margin 0
       padding 0
@@ -53,7 +54,7 @@
 
         &.selected
           margin 0
-          background url("/bill-workflow/images/time_line.png") repeat-x scroll center 68px #ffffff
+          background url(image_path + "time_line.png") repeat-x scroll center 68px #ffffff
 
           div.block
             background-color #ffffff
@@ -73,7 +74,7 @@
             color #bbbbbb
 
         i
-          background url("/bill-workflow/images/hexagon.png") no-repeat scroll center bottom transparent
+          background url(image_path + "hexagon.png") no-repeat scroll center bottom transparent
           clear both
           color #ffffff
           display block
