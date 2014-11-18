@@ -5,17 +5,20 @@
     "visionmedia/jade": "1.3.1",
     "component/dom": "1.0.5",
     "visionmedia/superagent" : "0.18.0",
+    "visionmedia/move.js": "0.4.0",
     "vmariano/jsdiff": "*"
   },
   "local": [
       "view"
-    , "side-view"
+    , "text-section"
   ],
   "scripts": [
     "view.js",
     "BillSection.js"
   ],
   "styles": ["styles.styl"],
-  "templates": [ "template.jade" ],
+  "templates": [
+      "template.jade"
+  ],
   "main": "view.js"
 }

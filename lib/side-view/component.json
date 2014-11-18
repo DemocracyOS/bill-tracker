@@ -21,6 +21,7 @@
   "templates": [
       "template.jade"
     , "content.jade"
+    , "change.jade"
   ],
   "main": "view.js"
 }
