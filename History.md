@@ -1,4 +1,15 @@
 
+0.0.3 / 2014-11-18
+==================
+
+  * #29 Update diff view - Add/Remove over the same text.
+      - Change color styles.
+      - Add the status 'add' to transform as text.
+      - Refactor text introducing the concept of "section"
+      - Change jade template to ripple template.
+      - Add slide to left on toggle side view.
+  * Add delete and reload db data.
+
 0.0.2 / 2014-11-06
 ==================
   * #26 Remove dates bill's header.
