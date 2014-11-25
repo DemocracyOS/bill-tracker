@@ -8,12 +8,14 @@
   , "finishedAt" : "2014-05-01T15:00:00.001Z"
   , "authors" :  [
     {
-      "name" : "john doe"
-    , "description" : "aditional information from the author / such as afiliations etc."
+      "name" : "Bill"
+    , "afiliation" : "Snake Charmer"
+    , "image": "http://img1.wikia.nocookie.net/__cb20110301021325/killbill/images/e/ea/BillPromo.jpg"
     },
     {
-      "name" : "john doe 2"
-    , "description" : "aditional information from the author / such as afiliations etc. 2"
+      "name" : "Bill"
+    , "afiliation" : "Snake Charmer"
+    , "image": "http://img1.wikia.nocookie.net/__cb20110301021325/killbill/images/e/ea/BillPromo.jpg"
     }
   ]
   , "steps" : [
@@ -560,12 +562,9 @@
     , "description": "Cambiar nombre del actual \"Pasaje Rauch\", en el barrio de Almagro, por \"Pasaje Rodolfo Walsh\". Quienes están a favor argumentan que Rauch era un mercenario austríaco contratado por Rivadavia para perseguir a los indios ranqueles y, así, poder desalojarlos de sus tierras. En contraste, destacan la figura de Rodolfo Walsh Rodolfo Walsh, intelectual, escritor y militante, como un ejemplo excluyente por su coherencia y su lucha implacable contra la dictadura instaurada en 1976."
     , "authors" :  [
     {
-      "name" : "john doe"
-      , "description" : "aditional information from the author / such as afiliations etc."
-    },
-    {
-      "name" : "john doe 2"
-      , "description" : "aditional information from the author / such as afiliations etc. 2"
+      "name" : "Bill"
+    , "afiliation" : "Snake Charmer"
+    , "image": "http://img1.wikia.nocookie.net/__cb20110301021325/killbill/images/e/ea/BillPromo.jpg"
     }
   ]
     , "steps" : [
@@ -635,10 +634,11 @@
     , "startedAt": "2013-12-05T15:00:00.001Z"
     , "finishedAt": "2014-01-05T15:00:00.001Z"
     , "authors" :  [
-        {
-            "name" : "john doe"
-          , "description" : "aditional information from the author / such as afiliations etc."
-        }
+    {
+      "name" : "Bill"
+    , "afiliation" : "Snake Charmer"
+    , "image": "http://img1.wikia.nocookie.net/__cb20110301021325/killbill/images/e/ea/BillPromo.jpg"
+    }
       ]
     , "steps": [
       {
@@ -779,5 +779,4 @@
       }
     ]
   }
-
 ]

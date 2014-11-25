@@ -7,10 +7,11 @@
   , "startedAt" : "2014-04-01T15:00:00.001Z"
   , "finishedAt" : "2014-05-01T15:00:00.001Z"
   , "authors" :  [
-        {
-        "name" : "john doe"
-      , "description" : "aditional information from the author / such as afiliations etc."
-    }
+      {
+        "name" : "Bill"
+      , "afiliation" : "Snake Charmer"
+      , "image": "http://img1.wikia.nocookie.net/__cb20110301021325/killbill/images/e/ea/BillPromo.jpg"
+      }
   ]
   , "steps" : [
         {
