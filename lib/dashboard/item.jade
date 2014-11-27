@@ -1,0 +1,12 @@
+div.item.col-md-4
+    div.inner
+        a.law-title-link
+            h2.law-title {{name}}
+
+        div.author-wrapper {{author}}
+
+        img(src='{{imageUrl}}')
+
+        p.description {{description}}
+
+    a(href='#', click-at="{{index}}").btn.btn-block.btn-primary.btn-discuss {{enter}}

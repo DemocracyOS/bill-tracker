@@ -8,7 +8,6 @@
   "local": [
     "homepage",
     "user",
-    "sidebar",
     "translations",
     "config"
   ],
