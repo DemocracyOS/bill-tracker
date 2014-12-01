@@ -1,4 +1,20 @@
 
+0.0.4 / 2014-12-01
+==================
+  
+  * Replace fixture br by \n
+  * Add picture profile to the all fixture authors.
+  * #37 Add about
+  * #36 fix main pages styles.
+  * #36 Remove unused image.
+  *  - Replace of side view for dashboard 
+     - add author view. 
+     - Added elipsis text for long descriptions. 
+     - Remove sidebar references
+  * #39 fix colors of references.
+  * #28 Update proposer icon
+  * #35 Add real bill project to test the tool
+
 0.0.3 / 2014-11-18
 ==================
 
