@@ -1,0 +1,173 @@
+[
+  {
+    "name" : "Implementación de Terrazas Verdes en la Ciudad"
+  , "description": "Este proyecto impulsa la instalación de terrazas verdes en la ciudad de Buenos Aires con el objetivo de mejorar la calidad medioambiental urbana y moderar los efectos del actual proceso de cambio climático."
+  , "billId" : "1"
+  , "status" : "started"
+  , "startedAt" : "2014-04-01T15:00:00.001Z"
+  , "finishedAt" : "2014-05-01T15:00:00.001Z"
+  , "authors" :  [
+      {
+        "name" : "Bill"
+      , "afiliation" : "Snake Charmer"
+      , "image": "http://img1.wikia.nocookie.net/__cb20110301021325/killbill/images/e/ea/BillPromo.jpg"
+      }
+  ]
+  , "steps" : [
+        {
+          "number" : 1
+        , "arriveAt" : "2011-03-18T15:00:00.001Z"
+        , "name": "Mesa de entradas"
+        , "billText": {
+            "mediaTitle": "Implementación de Terrazas Verdes en la Ciudad"
+          , "officialTitle": "#"
+          , "summary": "Este proyecto impulsa la instalación de terrazas verdes en la ciudad de Buenos Aires con el objetivo de mejorar la calidad medioambiental urbana y moderar los efectos del actual proceso de cambio climático."
+          , "source": ""
+          , "clauses": [
+            {
+              "clauseName": "Articulo 1°",
+              "order": 0,
+              "text": "Objeto. La presente Ley tiene por objeto la implementación de los denominados \"Techos o Terrazas Verdes\" en el ámbito de la Ciudad Autónoma de Buenos Aires."
+            },
+            {
+              "clauseName": "Artículo 2º",
+              "order": 1,
+              "text": "Definición. A los fines de lo normado en el primer articulo de la presente Ley, entiéndase como \"Techo o Terraza Verde\" a una superficie cubierta de vegetación cuyo principal objetivo es contribuir con el ambiente urbano mediante el sostenimiento ecológico en grandes ciudades."
+            },
+            {
+              "clauseName": "Artículo 3º",
+              "order": 2,
+              "text": "Autoridad de aplicación. El Poder Ejecutivo, mediante vía reglamentaria, establecerá la autoridad de aplicación de la presente Ley."
+            },
+            {
+              "clauseName": "Artículo 4°",
+              "order": 3,
+              "text": "Incorpórase al artículo 1.3.2 del Código de la Edificación, la siguiente definición:\n\"Cubierta vegetal: es aquella que contiene elementos vegetales vivos como parte integral del sistema total de la cubierta, la que podrá  o no, ser transitable."
+            },
+            {
+              "clauseName": "Artículo 5°",
+              "order": 4,
+              "text": "Incorpórase al artículo 5.10.2.1. \"Características de los materiales de la cubierta de techos\", del Código de la Edificación, el siguiente párrafo:\n\"Las cubiertas vegetales deberán contar, como mínimo con los siguientes componentes: barrera corta vapor; aislamiento térmico (opcional); aislamiento hidrófugo; barrera contra raíces; sistema de drenaje; filtro; medio de crecimiento y capa vegetal.\""
+            },
+            {
+              "clauseName": "Artículo 6º",
+              "order": 5,
+              "text": "Con el fin de estimular la inclusión de cubiertas vegetales en las obras que se realicen en el ámbito de la Ciudad de Buenos Aires, se aplicarán reducciones en el pago de los derechos de delineación y construcción a aquellos trámites que incluyan la construcción de una o más cubiertas vegetales. El porcentaje de dichas reducciones será establecido por vía reglamentaria."
+            },
+            {
+              "clauseName": "Artículo º",
+              "order": 6,
+              "text": "Publíquese y cúmplase con lo establecido en los artículos 89º y 90º de la Constitución de la Ciudad Autónoma de Buenos Aires."
+            }
+          ]
+        }
+        }
+      , {
+          "number" : 2
+        , "arriveAt" : "2012-05-15T15:00:00.001Z"
+        , "name" : "Planeamiento Urbano"
+        , "billText": {
+        "officialTitle": ""
+      , "source":"http://direitorio.fgv.br/sites/direitorio.fgv.br/files/Marco%20Civil%20-%20English%20Version%20sept2011.pdf"
+      , "mediaTitle":"Dictamen de la Comisión de Planeamiento Urbano para el Proyecto de Ley de implementación de Terrazas Verdes en la Ciudad Autónoma de Buenos Aires"
+      , "summary": "Este proyecto impulsa la instalación de terrazas verdes en la ciudad de Buenos Aires con el objetivo de mejorar la calidad medioambiental urbana y moderar los efectos del actual proceso de cambio climático."
+      , "clauses": [
+          {
+            "clauseName": "Artículo 1º",
+            "order": 0,
+            "text": "La presente Ley tiene por objeto la implementación de los denominados \"Techos o Terrazas Verdes\" en el ámbito de la Ciudad Autónoma de Buenos Aires."
+          },
+          {
+            "clauseName": "Artículo 2º",
+            "order": 1,
+            "text": "A los fines de lo normado en el primer articulo de la presente Ley, entiéndase como \"Techo o Terraza Verde\" a una superficie cubierta de vegetación cuyo objetivo es contribuir de manera sustentable con el medio ambiente urbano."
+          },
+          {
+            "clauseName": "Artículo 3º",
+            "order": 2,
+            "text": "Incorpórese el artículo 5.10.4 \"Techos verdes. Superficies cubiertas de vegetación\", al Código de la Edificación, el que quedará redactado de la siguiente manera:\n5.10.4. TECHOS VERDES. SUPERFICIES CUBIERTAS DE VEGETACION.\n5.10.4.1 MATERIAL DE LA CUBIERTA DE LOS TECHOS VERDES\nLa cubierta de un techo, azotea o terraza verde debe contar con una membrana aislante hidrófuga, carpeta de protección y recubrimiento previa a la capa de grava de drenaje. El espesor mínimo necesario de tierra para que la vegetación prospere debe estar en función a las especies que conformen la cubierta vegetal, no pudiendo exceder los 18cm.\nLa cubierta se ejecuta según la reglas del arte,  aplicándose las mejores técnicas y materiales disponibles.\nLas pendientes de escurrimiento deben responder a las normativas vigentes y el conjunto debe poseer un sistema de retención para evitar el escurrimiento de tierra.\nIMPERMEABILIZACIÓN DE LOS DESAGÜES DE LOS TECHOS VERDES\nEl método de desagüe a utilizar en las cubiertas de un techo, azotea o terraza verde debe contar con una correcta \nIMPERMEABILIZACION, la cual debe ser ejecutada con la mejor tecnología disponible.\n5.10.4.2 SEPARACION DE PREDIOS LINDEROS\nLos \"Techos o Terrazas Verdes\", en todos los casos, deben estar separados de los muros divisorios o en muros privativos contiguos o predios linderos a los efectos de evitar molestias a las edificaciones colindantes.\nLa Autoridad de Aplicación establece las medidas mínimas de separación en estos casos.\n5.10.4.3 CALCULO ESTRUCTURAL DE LAS EDIFICACIONES\nTodas las edificaciones que implementen los denominados \"Techos o Terrazas Verdes\" deben contar con un cálculo estructural que verifique la resistencia a las cargas que generen las cubiertas verdes.\n5.10.4.4 FACULTADES DE LA AUTORIDAD DE APLICACIÓN\nLa Autoridad de Aplicación podrá adecuar los aspectos técnicos que considere convenientes para la correcta implementación, seguimiento y control de los denominados \"Techos o Terrazas Verdes\"."
+          },
+          {
+            "clauseName": "Artículo 4º",
+            "order": 3,
+            "text": "En las obras nuevas que se realicen en el ámbito de la Ciudad de Buenos Aires, se aplican reducciones en el pago de los derechos de delineación y construcción a aquellos trámites que incluyan la construcción de una o más cubiertas vegetales. Tal reducción se calcula como el producto de la aplicación del coeficiente de ponderación (µ)  por el descuento máximo aplicable que es del 20% de las referidas tasas.\nPara poder gozar de los beneficios mencionados en este Artículo los solicitantes deberán comprometerse a presentar, ante la Autoridad de Aplicación, una declaración jurada al finalizar la obra, a los fines de demostrar la construcción del \"Techo o Terraza Verde\"."
+          },
+          {
+            "clauseName": "Artículo 5º",
+            "order": 4,
+            "text": "Los propietarios de edificaciones que implementen y mantengan Techos Verdes, gozan de una reducción en el importe del Alumbrado, barrido y limpieza. Tal reducción se calcula como el producto de la aplicación del coeficiente de ponderación (µ) por el descuento máximo aplicable que es del 20% de las referidas tasas.\nA fin de mantener la exención anual, la Autoridad de Aplicación implementa las medidas de fiscalización y control de la existencia y mantenimiento del Techo o Terraza Verde.\nLos beneficios explicitados alcanzan a los titulares de los inmuebles que mantengan las Cubiertas Verdes.\nEn los casos de los inmuebles afectados por la Ley de Propiedad Horizontal, los beneficios establecidos anteriormente alcanzan a todos los copropietarios de los mismos.\nEn todos los casos si la Autoridad de Aplicación verificase que el \"Techo o Terraza Verde\", definido en el Artículo 2º de la presente, dejase de existir, los beneficiarios perderán el beneficio otorgado sin más trámite."
+          },
+          {
+            "clauseName": "Artículo 6º",
+            "order": 5,
+            "text": "Coeficiente de Ponderación (µ)\nSe define como la semisuma de la aplicación de las Tablas I \"Superficie del techo Verde\" y II \"Porcentualidad de Cubierta, medida en proyección horizontal que se ha destinado al Techo Verde\" correspondientes a cada Techo Verde.\nTabla I\nSuperficie del Techo Verde\nTabla II\nPorcentualidad de Cubierta, medida en proyección horizontal que se ha destinado al Techo Verde\nm 2\nµ 1\n%\nµ  2\n0-50\n0.2\n0-20\n0.2\n51-100\n0.4\n21-40\n0.4\n101-150\n0.6\n41-60\n0.6\n151-200\n0.8\n61-80\n0.8\nMas de 200\n1\n81-100\n1\nCoeficiente de Ponderación  µ = µ 1 + µ 2\n2"
+          },
+          {
+            "clauseName": "Artículo 7º",
+            "order": 6,
+            "text": "Publíquese y cúmplase con lo establecido en los artículos 89º y 90º de la Constitución de la Ciudad Autónoma de Buenos Aires."
+          },
+          {
+            "clauseName": "Firmantes",
+            "order": 7,
+            "text": "MARÍA KARINA SPALLA\nPRESIDENTA\nMATEO ROMEO\nVICEPRESIDENTE\nANTONIO RUBEN CAMPOS\nADRIÁN RODOLFO CAMPS\nFERNANDO DE ANDREIS\nMARÍA AMÉRICA GONZÁLEZ\nANIBAL IBARRA\nFERNANDO MARTIN OCAMPO\nCLAUDIO MARCELO PALMEYRO\nDANIEL AGUSTIN PRESTI\nHELIO DANTE REBOT\nCRISTIAN ADRIÁN RITONDO\nFERNANDO SANCHEZ\nSCRENCI SILVA\nBRUNO GUIDO\nGABRIELA EUGENIA SEIJO"
+          }
+        ]
+      }
+    }
+      , {
+          "number" : 2
+        , "arriveAt" : "2012-05-15T15:00:00.001Z"
+        , "name" : "Arprobacioón 1ra lectura"
+        , "billText": {
+              "officialTitle": ""
+            , "source":"#"
+            , "mediaTitle": "DESPACHO 0303/12 sobre el Proyecto de Ley de implementación de Terrazas Verdes en la Ciudad Autónoma de Buenos Aires"
+            , "summary": "Este proyecto impulsa la instalación de terrazas verdes en la ciudad de Buenos Aires con el objetivo de mejorar la calidad medioambiental urbana y moderar los efectos del actual proceso de cambio climático."
+            , "clauses": [
+              {
+                "clauseName": "Artículo 1º",
+                "order": 0,
+                "text": "La presente Ley tiene por objeto la implementación de los denominados \"Techos o Terrazas Verdes\" en el ámbito de la Ciudad Autónoma de Buenos Aires."
+              },
+              {
+                "clauseName": "Artículo 2º",
+                "order": 1,
+                "text": "A los fines de lo normado en el primer articulo de la presente Ley, entiéndase como \"Techo o Terraza Verde\" a una superficie cubierta de vegetación cuyo objetivo es contribuir de manera sustentable con el medio ambiente urbano."
+              },
+              {
+                "clauseName": "Artículo 3º",
+                "order": 2,
+                "text": "Incorpórese el artículo 5.10.4 \"Techos verdes. Superficies cubiertas de vegetación\", al Código de la Edificación, el que quedará redactado de la siguiente manera:\n5.10.4. TECHOS VERDES. SUPERFICIES CUBIERTAS DE VEGETACION.\n5.10.4.1 MATERIAL DE LA CUBIERTA DE LOS TECHOS VERDES\nLa cubierta de un techo, azotea o terraza verde debe contar con una membrana aislante hidrófuga, carpeta de protección y recubrimiento previa a la capa de grava de drenaje. El espesor mínimo necesario de tierra para que la vegetación prospere debe estar en función a las especies que conformen la cubierta vegetal, no pudiendo exceder los 18cm.\nLa cubierta se ejecuta según la reglas del arte, aplicándose las mejores técnicas y materiales disponibles.\nLas pendientes de escurrimiento deben responder a las normativas vigentes y el conjunto debe poseer un sistema de retención para evitar el escurrimiento de tierra.\n \nIMPERMEABILIZACIÓN DE LOS DESAGÜES DE LOS TECHOS VERDES\nEl método de desagüe a utilizar en las cubiertas de un techo, azotea o terraza verde debe contar con una correcta IMPERMEABILIZACION, la cual debe ser ejecutada con la mejor tecnología disponible.\n5.10.4.2 SEPARACION DE PREDIOS LINDEROS\nLos \"Techos o Terrazas Verdes\", en todos los casos, deben estar separados de los muros divisorios o en muros privativos contiguos o predios linderos a los efectos de evitar molestias a las edificaciones colindantes.\nLa Autoridad de Aplicación establece las medidas mínimas de separación en estos casos.\n5.10.4.3 CÁLCULO ESTRUCTURAL DE LAS EDIFICACIONES\nTodas las edificaciones que implementen los denominados \"Techos o Terrazas Verdes\" deben contar con un cálculo estructural que verifique la resistencia a las cargas que generen las cubiertas verdes.\n5.10.4.4 FACULTADES DE LA AUTORIDAD DE APLICACIÓN\nLa Autoridad de Aplicación podrá adecuar los aspectos técnicos que considere convenientes para la correcta implementación, seguimiento y control de los denominados Techos o Terrazas Verdes. Incorpórese el artículo 5.10.4 \"Techos verdes. Superficies cubiertas de vegetación\", al Código de la Edificación, el que quedará redactado de la siguiente manera:\n5.10.4. TECHOS VERDES. SUPERFICIES CUBIERTAS DE VEGETACION.\n5.10.4.1 MATERIAL DE LA CUBIERTA DE LOS TECHOS VERDES\nLa cubierta de un techo, azotea o terraza verde debe contar con una membrana aislante hidrófuga, carpeta de protección y recubrimiento previa a la capa de grava de drenaje. El espesor mínimo necesario de tierra para que la vegetación prospere debe estar en función a las especies que conformen la cubierta vegetal, no pudiendo exceder los 18cm.\nLa cubierta se ejecuta según la reglas del arte, aplicándose las mejores técnicas y materiales disponibles.\nLas pendientes de escurrimiento deben responder a las normativas vigentes y el conjunto debe poseer un sistema de retención para evitar el escurrimiento de tierra.\nIMPERMEABILIZACIÓN DE LOS DESAGÜES DE LOS TECHOS VERDES\nEl método de desagüe a utilizar en las cubiertas de un techo, azotea o terraza verde debe contar con una correcta \nIMPERMEABILIZACION, la cual debe ser ejecutada con la mejor tecnología disponible.\n5.10.4.2 SEPARACION DE PREDIOS LINDEROS\nLos \"Techos o Terrazas Verdes\", en todos los casos, deben estar separados de los muros divisorios o en muros privativos contiguos o predios linderos a los efectos de evitar molestias a las edificaciones colindantes.\nLa Autoridad de Aplicación establece las medidas mínimas de separación en estos casos.\n5.10.4.3 CALCULO ESTRUCTURAL DE LAS EDIFICACIONES\nTodas las edificaciones que implementen los denominados \"Techos o Terrazas Verdes\" deben contar con un cálculo estructural que verifique la resistencia a las cargas que generen las cubiertas verdes.\n5.10.4.4 FACULTADES DE LA AUTORIDAD DE APLICACIÓN\nLa Autoridad de Aplicación podrá adecuar los aspectos técnicos que considere convenientes para la correcta implementación, seguimiento y control de los denominados \"Techos o Terrazas Verdes\"."
+              },
+              {
+                "clauseName": "Artículo 4º",
+                "order": 3,
+                "text": "En las obras nuevas que se realicen en el ámbito de la Ciudad de Buenos Aires, se aplican reducciones en el pago de los derechos de delineación y construcción a aquellos trámites que incluyan la construcción de una o más cubiertas vegetales. Tal reducción se calcula como el producto de la aplicación del coeficiente de ponderación (µ)  por el descuento máximo aplicable que es del 20% de las referidas tasas.\nPara poder gozar de los beneficios mencionados en este Artículo los solicitantes deberán comprometerse a presentar, ante la Autoridad de Aplicación, una declaración jurada al finalizar la obra, a los fines de demostrar la construcción del \"Techo o Terraza Verde\"."
+              },
+              {
+                "clauseName": "Artículo 5º",
+                "order": 4,
+                "text": "Los propietarios de edificaciones que implementen y mantengan Techos Verdes, gozan de una reducción en el importe del Alumbrado, barrido y limpieza. Tal reducción se calcula como el producto de la aplicación del coeficiente de ponderación (µ) por el descuento máximo aplicable que es del 20% de las referidas tasas.\nA fin de mantener la exención anual, la Autoridad de Aplicación implementa las medidas de fiscalización y control de la existencia y mantenimiento del Techo o Terraza Verde.\nLos beneficios explicitados alcanzan a los titulares de los inmuebles que mantengan las Cubiertas Verdes.\nEn los casos de los inmuebles afectados por la Ley de Propiedad Horizontal, los beneficios establecidos anteriormente alcanzan a todos los copropietarios de los mismos.\nEn todos los casos si la Autoridad de Aplicación verificase que el \"Techo o Terraza Verde\", definido en el Artículo 2º de la presente, dejase de existir, los beneficiarios perderán el beneficio otorgado sin más trámite. l reducción se calcula como el producto de la aplicación del coeficiente de ponderación (µ) por el descuento máximo aplicable que es del 20% de las referidas tasas.\nA fin de mantener la exención anual, la Autoridad de Aplicación implementa las medidas de fiscalización y control de la existencia y mantenimiento del Techo o Terraza Verde.\nLos beneficios explicitados alcanzan a los titulares de los inmuebles que mantengan las Cubiertas Verdes.\nEn los casos de los inmuebles afectados por la Ley de Propiedad Horizontal, los beneficios establecidos anteriormente alcanzan a todos los copropietarios de los mismos.\nEn todos los casos si la Autoridad de Aplicación verificase que el \"Techo o Terraza Verde\", definido en el Artículo 2º de la presente, dejase de existir, los beneficiarios perderán el beneficio otorgado sin más trámite."
+              },
+              {
+                "clauseName": "Artículo 6º",
+                "order": 5,
+                "text": "Coeficiente de Ponderación (µ)\nSe define como la semisuma de la aplicación de las Tablas I \"Superficie del techo Verde\" y II \"Porcentualidad de Cubierta, medida en proyección horizontal que se ha destinado al Techo Verde\" correspondientes a cada Techo Verde\nTabla I\n\"Superficie del Techo Verde\"\nTabla II\n\"Porcentualidad de Cubierta, medida en proyección horizontal que se ha destinado al Techo Verde\"\nm 2\nµ 1\n%\nµ  2\n0-50\n0.2\n0-20\n0.2\n51-100\n0.4\n\n21-40\n0.4\n101-150\n0.6\n\n\n41-60\n0.6\n151-200\n0.8\n\n\n61-80\n0.8\nMas de 200\n1\n\n\n81-100\n1\n\nCoeficiente de Ponderación    µ = µ 1 + µ 2\n2"
+              },
+              {
+                "clauseName": "Artículo 7º",
+                "order": 6,
+                "text": "Publíquese y cúmplase con lo establecido en los artículos 89º y 90º de la Constitución de la Ciudad Autónoma de Buenos Aires."
+              },
+              {
+                "clauseName": "Firmantes",
+                "order": 7,
+                "text": "Sala de la Comisión: 15 de mayo de 2012. \n SPALLA, María Karina; CAMPS, Adrián; GONZALEZ, María América; IBARRA, Aníbal; PALMEYRO, Claudio; OCAMPO, Martín; REBOT, Helio; SANCHEZ, Fernando; SCRENCI SILVA, Bruno; SEIJO, Gabriela."
+              }
+            ]
+        }
+       }
+    ]
+  }
+]

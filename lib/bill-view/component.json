@@ -10,6 +10,9 @@
     "ripplejs/each":  "0.3.0",
     "moment/moment": "2.7.0",
     "visionmedia/superagent" : "0.18.0"
+    , "DemocracyOs/proposer" : "0.0.2"
+    , "component/t": "1.0.0"
+
   },
   "local": [
     "view"

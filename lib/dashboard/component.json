@@ -1,6 +1,6 @@
 {
-  "name": "sidebar",
-  "description": "Sidebar list of items",
+  "name": "dashboard",
+  "description": "Dashboard of all items",
   "dependencies": {
     "component/domify": "1.2.0",
     "component/events": "1.0.5",
@@ -10,14 +10,16 @@
     "component/t": "1.0.0",
     "cristiandouce/query": "0.0.1",
     "visionmedia/superagent" : "0.18.0",
-    "ripplejs/ripple": "0.5.3"
+    "ripplejs/ripple": "0.5.3",
+    "DemocracyOs/proposer": "0.0.2",
+    "DemocracyOS/clamp.js": "0.0.1"
   },
   "local": [
     "view"
   ],
   "scripts": ["view.js" ],
   "templates": [
-    "list-item.jade",
+    "item.jade",
     "template.jade"
   ],
   "styles": [ "style.styl" ],
